@@ -1,1 +1,2 @@
 DEFAULT_FOLDER = kbd75/rev1
+MOUSEKEY_ENABLE = yes
